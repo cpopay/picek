@@ -14,7 +14,7 @@ echo
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo $i" |"$cy"     INDONESIA DARK TERMUX ASSOCIATE"$i"         |"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
-echo $i" |"$pu" AUTHOR :"$ku" ANKCER COMUNITY"$i"          |"
+echo $i" |"$pu" AUTHOR :"$ku" ANKCER COMUNITY "$i"          |"
 echo $i" |"$pu" FACEBOOK :"$ku" Ankcer Comunity"$i"                   |"
 echo $i" |"$pu" THANKS TO :"$cy"~ [MR.P3RC1L] [MR.S∆MAx] [MR.B]"$i"  |"
 echo $i" |"$cy"            ~ [cyber] [%MR.S%] [AldykaPrygh]"$i" |"
@@ -24,7 +24,7 @@ echo $i"["$bi"•"$i"]"$me"─────────────────�
 echo
 echo $i"────────────────────────────────    ─────"
 echo $i"|"$me" 1"$i" |"$cy" BRUTEFORCE FB PHP        "$i"|"$i"    |"$cy" B"$i" |"
-echo $i"|"$me" 2"$i" |"$cy" BRUTEFORCE FB ANKCER    "$i"|"$i"    |"$cy" E"$i" |"
+echo $i"|"$me" 2"$i" |"$cy" BRUTEFORCE FB BR1G4D3    "$i"|"$i"    |"$cy" E"$i" |"
 echo $i"|"$me" 3"$i" |"$cy" BRUTEFORCE FB iqbalz     "$i"|"$i"    |"$cy" N"$i" |"
 echo $i"|"$me" 4"$i" |"$cy" BRUTEFORCE FB MBF        "$i"|"$i"    |"$cy" G"$i" |"
 echo $i"|"$me" 5"$i" |"$cy" FACEBRUTE N1ght420       "$i"|"$i"    |"$cy" K"$i" |"
@@ -66,8 +66,8 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/cpopay/bangke
-cd bangke
+git clone https://github.com/cpopay/picek
+cd picek
 python2 crack.py
 fi
 
